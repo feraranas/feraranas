@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @feraranas
-- 👀 I’m interested in computers, sports and money descentralization.
+- 👀 I’m interested in computers, sports and finance descentralization.
 - 🌱 I’m currently learning software engineering at ITESM university.
 - 💞️ I’m looking to collaborate on web development and DeFi applications.
 - 📫 How to reach me feraranas@gmail.com
